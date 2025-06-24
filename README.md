@@ -113,4 +113,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Link is now responsive and active
+
+
+Update:  24.06.2025 Repaired dead links in development setup guide
