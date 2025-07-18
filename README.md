@@ -123,4 +123,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  14.07.2025 03:59
+
+
+Update: url is now operational
